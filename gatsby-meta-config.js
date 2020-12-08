@@ -4,7 +4,7 @@ module.exports = {
   description: `My First Develop Log`,
   author: `orongee22`,
   introduction: ``,
-  siteUrl: `https://yerinaju.netlify.app/`, // Your blog site url
+  siteUrl: `https://orongee22.netlify.app/`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
     github: `orongee22`, // Your GitHub account
@@ -27,5 +27,5 @@ module.exports = {
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
   },
-  ga: 'G-6S04F2X8QV', // Add your google analytics tranking ID
+  ga: 'G-4P4CXTJJ3G', // Add your google analytics tranking ID
 }
